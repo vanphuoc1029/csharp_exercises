@@ -1,3 +1,4 @@
+//Bài 4: Tính S(n) = ½ + ¼ + … + 1/2n
 using System;
 using System.Collections.Generic;
 using System.Linq;
