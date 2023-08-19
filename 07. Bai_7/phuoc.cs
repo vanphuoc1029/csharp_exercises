@@ -1,4 +1,4 @@
-// Bài 7: Tính S(n) = ½ +2 / 3 + ¾ + …. +n / n + 1
+// BÃ i 7: TÃ­nh S(n) = Â½ +2 / 3 + Â¾ + â€¦. +n / n + 1
 using System;
 using System.Collections.Generic;
 using System.Linq;
