@@ -1,4 +1,4 @@
-//Bài 6: Tính S(n) = 1/1×2 + 1/2×3 +…+ 1/n x (n + 1)
+//BÃ i 6: TÃ­nh S(n) = 1/1Ã—2 + 1/2Ã—3 +â€¦+ 1/n x (n + 1)
 using System;
 using System.Collections.Generic;
 using System.Linq;
