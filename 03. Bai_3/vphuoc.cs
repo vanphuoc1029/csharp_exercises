@@ -1,4 +1,4 @@
-//Bài 3: Tính S(n) = 1 + ½ + 1/3 + … + 1/n
+//BÃ i 3: TÃ­nh S(n) = 1 + Â½ + 1/3 + â€¦ + 1/n
 using System;
 using System.Collections.Generic;
 using System.Linq;
